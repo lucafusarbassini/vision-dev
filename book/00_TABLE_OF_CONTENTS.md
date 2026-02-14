@@ -74,6 +74,9 @@ A structured approach to choosing your path: impact × feasibility × personal f
 **Chapter 15: Building the Dream — Founding a Drug-Oriented Research Institute in Europe**
 A concrete blueprint for building something that does not yet exist: an institution that combines the intellectual freedom of the Arc Institute with the translational discipline of pharma, rooted in European soil, aimed at diseases the market ignores. The Arc model dissected. Existing European models (MRC LMB, CeMM Vienna, Francis Crick, EMBL). Legal and funding frameworks. Organizational architecture. The first five years. What it actually takes.
 
+**Chapter 16: The China Model — What a European Institute-Builder Can Learn from China's Biotech Ascent**
+China's pharma ecosystem went from zero globally competitive innovative drugs in 2010 to one-third of all global licensing spending by 2025. How that happened: industrial policy, talent pipeline, speed advantages, CDMO scale, specific company stories (BeiGene, Legend Biotech, Hengrui, Innovent, Akeso). The six transferable principles for Europe. Risks and honest assessment. The geopolitical opportunity window.
+
 ---
 
 ## APPENDICES

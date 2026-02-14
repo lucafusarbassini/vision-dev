@@ -40,6 +40,8 @@ cat \
   <(echo -e "\n\n---\n\n") \
   "$BOOK_DIR/15_BUILDING_THE_DREAM.md" \
   <(echo -e "\n\n---\n\n") \
+  "$BOOK_DIR/16_THE_CHINA_MODEL.md" \
+  <(echo -e "\n\n---\n\n") \
   "$BOOK_DIR/appendix_A_disease_reference.md" \
   <(echo -e "\n\n---\n\n") \
   "$BOOK_DIR/appendix_B_key_companies.md" \
